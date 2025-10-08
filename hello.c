@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-    printf("WELCOME TO DPIT");
+    printf("WELCOME TO DPIT 10");
     
 }
